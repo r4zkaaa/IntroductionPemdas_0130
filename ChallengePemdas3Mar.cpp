@@ -8,7 +8,7 @@ void input(){
     cout << "Masukkan jari-jari lingkaran: ";
     cin >> R;
 }
-float luas (float R){
+float luasss (float R){
     return 3.14159 * R * R; 
 }
 void output (){
